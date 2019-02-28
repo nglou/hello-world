@@ -1,2 +1,4 @@
 # hello-world
-trying git out
+Trying git out via Github
+
+This is the proverbial Hello World.
